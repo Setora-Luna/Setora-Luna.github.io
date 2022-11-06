@@ -1,0 +1,38 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: bold;
+    text-align: center;
+    color: blueviolet;
+}
+
+body {
+    background-color: lightgray;
+}
+
+table {
+    border: 2px solid purple;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: plum;
+    font: bolder;
+}
+
+td {
+    border-top: 1px solid purple;
+}
+
+.tag {
+    background-color: aliceblue;
+}
+
